@@ -1,0 +1,29 @@
+﻿# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.tlog
+*.ilk
+
+# Build output
+bin/
+obj/
+logs/
+
+# User-specific files
+*.userosscache
+*.sln.docstates
+
+# Debugging and publish files
+*.pdb
+*.publish/
+
+# Test result files
+TestResults/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
